@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetApiChallenge", "DotNetApiChallenge\DotNetApiChallenge.csproj", "{087C3EB9-DE6C-487B-AB29-02627D36EAEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetApiChallenge.Tests", "DotNetApiChallenge.Tests\DotNetApiChallenge.Tests.csproj", "{749E2522-095B-41E1-816F-3B90B5BEACB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{087C3EB9-DE6C-487B-AB29-02627D36EAEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{087C3EB9-DE6C-487B-AB29-02627D36EAEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{087C3EB9-DE6C-487B-AB29-02627D36EAEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{087C3EB9-DE6C-487B-AB29-02627D36EAEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{749E2522-095B-41E1-816F-3B90B5BEACB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{749E2522-095B-41E1-816F-3B90B5BEACB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{749E2522-095B-41E1-816F-3B90B5BEACB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{749E2522-095B-41E1-816F-3B90B5BEACB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
